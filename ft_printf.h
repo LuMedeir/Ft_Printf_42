@@ -14,7 +14,6 @@
 # define FT_PRINTF_H
 
 // bases
-# define G_CONVERT "cspduixX%"
 # define G_HEX_BASE_LOWER "0123456789abcdef"
 # define G_HEX_BASE_UPPER "0123456789ABCDEF"
 
