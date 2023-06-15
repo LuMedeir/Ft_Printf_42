@@ -25,7 +25,7 @@ int	ft_printf(const char *str, ...)
 	len = 0;
 	while (str[count] != '\0')
 	{
-		if (str[count] == '%' && ft_strchr(G_CONVERT, str[count + 1]))
+		if (str[count] == '%')
 		{
 			len += ft_convert(str[count + 1], ap);
 			count += 2;
