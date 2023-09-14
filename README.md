@@ -1,7 +1,7 @@
 # Ft_Printf
 
 <p align="center">
-<img src="./img/pipex.png">
+<img src="image.png">
 </p>
 
 <p align="center">
