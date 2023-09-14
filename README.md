@@ -22,14 +22,14 @@ placed using the percentage '%' operator.
 Specifier                |Output                      
 |----------------|-------------------------------|
 | `%c` | Character |
-| `%i` |  Integer in base 10. |
+| `%i` |  Integer in base 10 |
 | `%s` | String of characters |
 | `%d` | Decimal (base 10) number |
 | `%u` | Unsigned integer |
 | `%x` | Unsigned hexadecimal integer |
 | `%X` | Unsigned hexadecimal integer (uppercase) |
-| `%p` | Pointer argument in hexadecimal format. |
-| `%%` | Prints a percent sign. |
+| `%p` | Pointer argument in hexadecimal format |
+| `%%` | Prints a percent sign |
 
 
 ## Makefile rules
