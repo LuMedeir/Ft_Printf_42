@@ -32,7 +32,7 @@ Specifier                |Output
 | `%%` | Prints a percent sign |
 
 
-## Makefile rules
+### Makefile rules
 
 | Rule         |                 Description                             |
 |:------------:|:-------------------------------------------------------:|
